@@ -2,7 +2,7 @@
     "name": "DiceBot",
     "version": "1.0.0",
     "description": "DiceBot",
-    "main": "dice.js",
+    "main": "app.js",
     "scripts": {
         "bot": "node app.js"
     },
