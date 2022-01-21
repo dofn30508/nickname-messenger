@@ -10,7 +10,7 @@
     "dependencies": {
         "discord.io": "github:woor/discord.io#gateway_v6",
         "express": "^4.17.1",
-        "log4js": "^6.1.2",
+        "log4js": "^6.4.0",
         "winston": "^3.2.1"
     }
 }
