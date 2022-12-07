@@ -9,7 +9,7 @@
     "author": "Double",
     "dependencies": {
         "discord.io": "github:woor/discord.io#gateway_v6",
-        "express": "^4.17.1",
+        "express": "^4.18.2",
         "log4js": "^6.1.2",
         "winston": "^3.2.1"
     }
